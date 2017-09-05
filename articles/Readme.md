@@ -5,3 +5,4 @@ Most, if not all of this articles can also be found on my [Pinboard📌 Account]
 ### Articles by Month
 #### 2017
 * [August 2017](https://github.com/Plsr/stuff-i-like/blob/master/articles/August-2017.md)
+* [September 2017](https://github.com/Plsr/stuff-i-like/blob/master/articles/September-2017.md)
